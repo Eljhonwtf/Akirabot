@@ -24,35 +24,35 @@ export default {
    },
 
    msg: {
-      owner: 'Perintah ini hanya dapat digunakan oleh Owner!',
-      group: 'Perintah ini hanya dapat digunakan di group!',
-      private: 'Perintah ini hanya dapat digunakan di private chat!',
-      admin: 'Perintah ini hanya dapat digunakan oleh admin group!',
-      botAdmin: 'Bot bukan admin, tidak dapat mengakses fitur tersebut',
-      bot: 'Fitur ini hanya dapat diakses oleh Bot',
-      locked: 'Fitur ini telah dinonaktifkan!',
-      media: 'Reply media...',
-      error: "Sepertinya ada kesalahan. bot gagal dalam mengeksekusi...",
-      quoted: "Reply message...",
-      wait: "",
-      premium: "Perintah ini hanya dapat digunakan oleh pengguna premium!",
-      vip: "Perintah ini hanya dapat digunakan oleh pengguna VIP!",
-      dlFree: `File over ${formatSize(limit.download.free)} can only be accessed by premium users`,
-      dlPremium: `WhatsApp Web cannot send files larger than ${formatSize(limit.download.premium)}`,
+      owner: '*¡TU QUE?😑!* Este comando sólo puede ser utilizado por el Propietario TheJhxnn!😮‍💨!',
+      group: '*¡Este comando sólo se puede utilizar en grupos!*',
+      private: '¡Este comando sólo se puede utilizar en el chat privado!',
+      admin: '¡Este comando sólo puede ser utilizado por administradores de grupo!',
+      botAdmin: 'El bot no es administrador, no puede acceder a esa función',
+      bot: 'Fitur ini hanya dapat diakses oleh Bot A esta función sólo pueden acceder los bots',
+      locked: '¡Esta función ha sido deshabilitada!',
+      media: 'Responder medios...',
+      error: "Parece que hay un error. El bot no se pudo ejecutar...",
+      quoted: "Responder mensaje...",
+      Responder mensaje: "",
+      premium: "¡Este comando sólo puede ser utilizado por usuarios premium!",
+      vip: "¡Este comando sólo puede ser utilizado por usuarios premium!",
+      dlFree: `Archivo terminado ${formatSize(limit.download.free)} Sólo pueden acceder usuarios premium`,
+      dlPremium: `WhatsApp Web no puede enviar archivos de más de ${formatSize(limit.download.premium)}`,
       dlVIP: `WhatsApp cannot send files larger than ${formatSize(limit.download.VIP)}`
    },
 
    options: {
       public: true,
       URI: "database.json", // use mongo or file json
-      owner: ["6288292024190", "62858156631709"],
+      owner: ["584142577312", "582129443583"],
       pathCommand: 'commands'
    },
 
    Exif: {
       packId: "https://instagram.com/cak_haho",
-      packName: `Sticker ini Dibuat Oleh :`,
-      packPublish: "Dika Ardnt.",
+      packName: `Jhon:`,
+      packPublish: "Jhon.",
       packEmail: "dika.ardianta7@yahoo.com",
       packWebsite: "https://instgaram.com/cak_haho",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
@@ -63,7 +63,7 @@ export default {
 
    session: {
       Path: "session",
-      Name: "hisoka"
+      Name: "Akirabot"
    }
 }
 
